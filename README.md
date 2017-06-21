@@ -1,2 +1,4 @@
 # chelseakmua
-Custom WordPress Theme for Chelsea K, Makeup Artist by Joseph Corrales
+Custom WordPress Theme for Chelsea K, Makeup Artist
+
+###### By Joseph Corrales
